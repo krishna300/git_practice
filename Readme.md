@@ -12,3 +12,10 @@
     - Delhi
     - Jaipur
     - Bangalore
+
+# Feat three code goes here
+    - Devops
+    - Docker
+    - Terraform
+    - Jenkins
+    - aws
