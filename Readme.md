@@ -5,3 +5,10 @@
     - bananas
     - Orange
     - Grapes
+
+# Feat two code goes here
+    - Hyderabad
+    - Shimla
+    - Delhi
+    - Jaipur
+    - Bangalore
