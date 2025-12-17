@@ -1,7 +1,7 @@
 ## Hello to Git Repo !!
 
 # Feat one code goes here
-    - Aples
+    - Apples
     - bananas
     - Orange
     - Grapes
@@ -12,6 +12,8 @@
     - Delhi
     - Jaipur
     - Bangalore
+    - Malaysia
+    - Indonesia
 
 # Feat three code goes here
     - Devops
@@ -19,3 +21,4 @@
     - Terraform
     - Jenkins
     - aws
+    - Kubernetes
